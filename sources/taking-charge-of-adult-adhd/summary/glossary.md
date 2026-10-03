@@ -1,0 +1,59 @@
+# glossary.md
+Format: term / chapter / definition. Alphabetical. Definitions are the author's words where quoted; otherwise a close paraphrase. Pages in parentheses.
+
+- **Accountability** / ch.11, ch.21 / Making consequences "more frequent, immediate, and salient" (ch.11 p.102); "We are far, far more likely to follow through on the goals we set for ourselves if we tell someone else what we're doing" (ch.21 p.186).
+- **ADHD NOS (subclinical ADHD)** / ch.12 / Some symptoms and impairment in major life activities, but too few symptoms to meet DSM criteria; "not otherwise specified" (p.118).
+- **Alpha-2 ports** / ch.14 / Openings along a nerve cell's axon; "the more open they are, the more the nerve signals … can be disrupted or weakened"; guanfacine XR "closes these ports" (p.142).
+- **Carpe diem** / ch.8 / "Could be the motto of all adults with ADHD. It's great on vacation; it's terrible as a daily rule" (p.67).
+- **Chunk / work quota** / ch.21 / A small unit of work; the further the deadline, "the smaller you need to make the chunks of work" (p.185). Sign: "CHUNK IT, BABY!" (p.186).
+- **Coach or mentor** / ch.24, ch.25 / "Someone to whom you can make yourself accountable every day for the work that you believe needs to get done that day" (ch.24 p.203); meet twice a day for 5 minutes (ch.24 p.203; ch.25 p.220).
+- **Comorbidity** / ch.2 / Coexisting disorders found at evaluation (p.16).
+- **Conduct disorder (CD)** / ch.29 / Kids and teens who "aren't just defiant. They lie, steal, fight, carry weapons, set fires, and/or commit sexual assault" (p.258).
+- **Conscientiousness** / ch.28 / A major personality dimension; "to be conscientious is to tend toward the opposite of ADHD symptoms" (p.253).
+- **Cross-temporal organization of behavioral contingencies** / ch.8 / Bridging the gap between event, response and outcome over long spans; "job one of your executive brain (frontal lobes)"; "the ability to engage in time management or, more aptly, to manage yourself relative to the passage of time" (p.68).
+- **Dimension (ADHD as)** / ch.1 / "ADHD is not a category that you either fall into or don't. It is not like pregnancy. It's more like human height or intelligence" (p.11).
+- **Emotion regulation (the mind's heart)** / ch.9 / The fifth executive function; lets us "soothe ourselves," "distract ourselves," "implement an alternative emotion," and "choose a more moderate emotional tone" (p.90).
+- **Executive functions** / ch.6, ch.9 / "The specific self-directed actions that we use to control ourselves," working "like a GPS in your brain" (ch.6 p.48); "the actions directed at ourselves, the mental activities we engage in when we think about our future" (ch.9 p.69). Seven: self-awareness, inhibition, nonverbal working memory, verbal working memory, emotion regulation, self-motivation, planning/problem solving (ch.9 p.70).
+- **External working memory** / ch.10, ch.19 / The written task, steps and deadline kept in front of you (ch.10 p.98); "A journal is invaluable: It's your external working memory" (ch.19 p.177).
+- **Externalize (key information)** / ch.10, ch.19 / "Putting key pieces of information into some physical form and putting it where the problem now exists so you can see it immediately" (ch.10 p.98); Rule 4 (ch.19).
+- **Free will** / ch.8 / "Just another way of saying we have the capacity to deliberate on our options to act" (p.65).
+- **Gatekeeper (for purchases)** / ch.26 / A friend you call or text before making a purchase, "so that he or she can ask whether you really need this item and hold you accountable" (p.226).
+- **Hindsight / foresight** / ch.8, ch.9 / Hindsight brings "your pertinent past history forward into the moment"; foresight "means taking any patterns perceived in images from the past to anticipate what will happen in the future" (ch.9 pp.77–78).
+- **Hyperfocusing** / ch.7 / What "some advocates for adults with ADHD call" perseveration (p.63).
+- **Impairment** / ch.1, ch.5 / "The adverse consequences that result from showing those symptoms" (ch.1 p.11); "the social and other adverse consequences or costs that result from expressing the symptoms of ADHD," measured against the norm (ch.5 p.30).
+- **Inhibition (the mind's brakes)** / ch.6, ch.7 / "Your psychological braking system" (ch.6 p.48); "the foundation of tact. It helps create a pause in our automatic actions" (ch.7 p.58).
+- **Internalizing / privatizing** / ch.9 / Self-directed actions that begin as public behavior become unobservable "thinking"; "the thought can go on, but the action it might create is prevented" (p.70).
+- **Journal** / ch.19, ch.24, ch.25 / A small notebook or phone carried at all times to record "anything someone says to you that you are to do, any promise you make, any commitment to others, date, deadline, meeting" (ch.19 p.176); also a log of task times (p.175). "Don't consider yourself completely dressed in the morning until you slip that journal … into your pocket" (p.176).
+- **Life's scripts** / ch.27 / The higher-level self-monitoring needed "to know when to start, shift, end, or keep an interaction going"; "reading entrance and exit cues is just as important as what you do onstage" (p.234).
+- **Meta-rules** / ch.9 / "Rules about rules"; e.g., the six-step problem-solving procedure (p.83).
+- **Mind's eye** / ch.9, ch.17 / Nonverbal working memory; "to 'see to yourself' in your mind's eye" (ch.9 p.76).
+- **Mind's fuel tank** / ch.9 / Self-motivation; "generates the internal 'fuel' or drive that powers us toward our goals" (p.88).
+- **Mind's mirror** / ch.9 / Self-awareness, the first executive function to emerge (p.73).
+- **Mind's playground** / ch.9 / Planning and problem solving; "a form of mental play" (p.92). "Play is training for inventiveness in adult problem solving" (p.93).
+- **Mind's voice** / ch.9, ch.18 / Verbal working memory; the ability "to talk to yourself, especially in your mind" (ch.9 p.82).
+- **Motivational "prostheses"** / ch.10 / Frequent external rewards, "nearly essential to your fulfilling longer-term projects" (p.99).
+- **Nonstimulant** / ch.14 / Atomoxetine or guanfacine XR; not a controlled substance in the US because it has "little appeal as a drug of abuse" (pp.137, 139). See gaps.md #18 for the grouping inconsistency.
+- **Nonverbal working memory** / ch.9 / "The capacity to hold information in mind—not through words but through your senses" (p.76).
+- **Off-label use** / ch.14 / "Using a medication to treat a condition for which it is not FDA approved"; "can be perfectly safe (and even the best choice)" (p.143).
+- **Owning your ADHD** / Step Two opener (ch.6 p.42) / "Accepting ADHD as part of your psychological makeup" (p.42). "Know it, own it, and then work with it" (ch.23 p.195).
+- **Perseveration** / ch.7 / Difficulty stopping something fun; "it's not that the person has decided to put off something that isn't fun. It's that he or she decided to keep going on something that is fun" (p.63).
+- **Physical cues** / ch.19 / Items in plain view where the problem arises; "your stand-in for a shaky working memory" (p.173).
+- **Point of performance** / ch.10 / The place and time "where problems may be occurring because you don't stop and think before you act and thus don't allow what you know to be activated" (p.97).
+- **Presentation (DSM-5)** / ch.5 / Predominantly hyperactive, predominantly inattentive, or combined; not "qualitatively different forms of the disorder that are stable over time" (p.34).
+- **Pro-drug** / ch.13 / A drug bonded to another compound "that alters its typical pattern of activation"; Vyvanse's amphetamine is locked by lysine until split in the gut (pp.134–135).
+- **Probability blind** / ch.28 / "You don't look ahead to consider seriously and rationally what might happen as a result of whatever actions you're considering" (p.243).
+- **Ramps** / ch.11 / "The ADHD equivalent of wheelchair ramps into a building—making accommodations in your physical environment so you are less impaired" (p.102).
+- **Randomized, controlled, double-blind trial** / ch.11 / "The most reliable way to test the effects of a treatment" (p.110).
+- **Reasonable accommodations** / ch.24 / Adjustments to educational activities under the ADA; "this law exists to help you help yourself" (pp.202–203).
+- **Schedule II** / ch.13 / DEA classification of potentially addictive controlled substances, including stimulants; imposes limits on production, prescribing, pharmacy storage (pp.123, 126).
+- **Self-awareness** / ch.9 / First executive function to emerge; "if you are unaware of how you are behaving, why would you and how could you stop yourself" (p.73).
+- **Self-control** / ch.6, ch.8 / "Any response or set of responses that you direct at yourself and your own likely behavior that would lead you to do something different from what your first impulse would dictate" (ch.6 p.48); "the ability to choose something other than your initial impulse so you can get something in the future that you want more" (ch.8 p.64).
+- **Sluggish cognitive tempo (SCT)** / ch.5 / "A separate deficiency in a different type of attention"; 30–50% of apparent inattentive cases may be SCT (p.34).
+- **Specific learning disability (LD)** / ch.24 / "A delay in a specific area of basic academic skills, such as reading, spelling, math, and reading comprehension"; below the 14th percentile on standardized tests (p.201).
+- **SQ4R** / ch.24 / Survey; draft Questions; then Read, Recite, Write, Review one paragraph at a time (pp.206–207).
+- **Stop the action** / ch.16 / Rule 1: "Perform a simple action to stave off the urge to act" (hand over mouth, hand on chin, "Hmmmm, let me see now," paraphrase) to "buy you some time before you respond" (pp.159, 161).
+- **Time blindness** / ch.1, ch.6, ch.7 / "Blind to time, or nearsighted toward the future" (ch.1 p.5); "ADHD is a form of time blindness" (ch.6 p.56); "starts with a lack of impulse control" (ch.7 p.63).
+- **Time off the clock** / ch.24 / A stopwatch method for timed tests: stop it for short breaks as often as you like; total test time is unchanged; "self-pacing the exam" (p.207).
+- **Verbal working memory** / ch.9 / See mind's voice.
+- **Vicarious learning** / ch.9 / Imitating what others did well and avoiding what failed; "a very efficient form of social learning" (p.77).
+- **Visualize it → Verbalize it → Feel it** / ch.20 / Rule 5 sequence for motivation (p.180); ask "What will it feel like when I get this done?" (p.181).
