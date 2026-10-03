@@ -1,0 +1,75 @@
+# Glossary
+
+Format: term / chapter / definition. Alphabetical. Definitions quote or closely paraphrase the authors; page = n/a (the EPUB has no page numbers, so print-edition pages are unverified). Chapter numbers are those where the term is defined or most fully used.
+
+- **10-minute rule** / Ch 5 / Work on a task for an honest 10 minutes (600 seconds) at the smallest first step, then reassess; stopping afterward is an "informed decision," not procrastination.
+- **Acceptance of discomfort** / Ch 5 / Normalizing that most tasks, even valued ones, require inconvenience and effort; you can feel discomfort and still act (cites Hayes, 2005).
+- **Action often precedes motivation** / Ch 6 / Taking small steps to "touch" a task starts you without waiting to feel motivated.
+- **All-or-nothing thinking** / Ch 7 / Viewing yourself or performance in absolute success/failure terms with no continuum (Table 7.1).
+- **Allergy / food sensitivity (metaphor)** / Ch 11, 17, 18 / Treat risks such as phone, e-mail or games like allergens or sensitivities to be limited while working.
+- **Assertiveness** / Ch 9 / "The ability to state a question, assertion, request, or suggestion" (Take Away 9.1).
+- **Automated prioritization** / Ch 8 / A separate e-mail account for payments/finance so any waiting message is likely important.
+- **Automatic thoughts** / Ch 5, 7 / Reflexive thoughts and interpretations that occur just out of awareness and can be distorted.
+- **Behavioral script** / Ch 6 / A patterned, overlearned sequence of behaviors (e.g., Mark's "coming home" script) that sustains avoidance; replaceable with a new script.
+- **Boat owner's advice** / Ch 4, 18 / "Double the number and add an increment of time" when estimating how long a task takes (not literal).
+- **Bottom up / top down** / Ch 19 / Medications work "bottom up"; psychosocial treatments work "top down."
+- **Brinksmanship** / Ch 3 / Putting off tasks until a deadline or untenable situation forces action.
+- **Buffer time** / Ch 3, 4 / Extra time between tasks and appointments (commuting, transitions) so the day has slack; "leave room for cream."
+- **Chasing the task** / Ch 5, 14 / Putting a task off hour by hour (or working all night/weekend) because it was not scheduled.
+- **Check-in (relationship)** / Ch 15 / A regular protected face-to-face conversation (at least twice in the first week; at least 10 minutes per Take Away 15.1) to coordinate daily life.
+- **Choreography** / Ch 3, 4, 18 / Arranging the sequence of tasks and obligations while managing effort and energy through the day.
+- **Comparative thinking** / Ch 7 / Judging yourself against others, often unfairly (Table 7.1).
+- **Comprehensive To-Do List** / Ch 2 / "An all-encompassing list of your various tasks, responsibilities, and undertakings"; a "dump list" covering about the next 1–6 weeks.
+- **Coping cards** / Ch 15 / Index-card "cheat sheets" of do's and don'ts carried into situations.
+- **Coping drift** / Ch 7, 10, 18 / A slow creep away from good coping skills through small violations that add up.
+- **Core beliefs / schema** / Ch 7 / Enduring "rules for life" formed from childhood on, which can be maladaptive (self-mistrust, failure, incompetence, defectiveness, instability, unlovability).
+- **Daily Planner** / Ch 3 / A tool of rows and columns for designating times in a day, week or month for action and for all obligations; "a flash drive or the cloud for your brain."
+- **Daily To-Do List** / Ch 2 / "An easy-to-access, disposable list of tasks for today" on an index card or similar, limited to two to five items.
+- **Decatastrophize** / Ch 15, 16 / Keep stressful events in perspective rather than treating them as disasters.
+- **Defense Attorney** / Ch 7 / Metaphor for the part of you that objects to one-sided negative automatic thoughts and argues a balanced case (from Freeman & Reinecke, 1993).
+- **Disarming** / Ch 15 / Finding a grain of truth in what a speaker says, without giving in, to reduce emotional intensity.
+- **Double whammy** / Ch 6 / Greater difficulty generating positive emotion for a task and greater difficulty inhibiting immediate distractions.
+- **Downward arrow** / Ch 7 / Repeatedly asking "if this is true, what does it say about me?" to uncover a core belief (Burns, 1989).
+- **Enter the room with a plan** / Ch 2 / Remind yourself why you are entering a room, store or file so you get past distraction at the point of performance; extended to cars (Ch 16) and devices (Ch 17).
+- **Escape behaviors** / Ch 5 / Activities (e-mail, naps, social media, errands) chosen to avoid a task; the "usual suspects."
+- **Executive functions** / Ch 1 / Barkley: "the use of self-directed actions so as to choose goals and to select, enact, and sustain actions across time toward those goals…"
+- **Externalization of information** / Ch 1 / Writing plans and skills out instead of holding them in mind.
+- **Fool's Gold** / Ch 8 / Searching for the perfect system, which becomes procrastination that feels productive.
+- **Goodness of fit** / Ch 14, 13 / The match between job (or school) demands/setting and your abilities and interests, including the effects of ADHD.
+- **Implementation plan / IF-THEN plan** / Ch 2, 5 / A contingency plan, "IF X happens, THEN I will do Y," for anticipated distractions or for getting started (cites Gawrilow, 2011).
+- **Impulsive compliance** / Ch 9 / "The tendency to reflexively agree to do a favor or assume a responsibility when it is wiser for you to decline."
+- **Invisible fences** / Ch 7 / Past ADHD "shocks" condition you to avoid opportunities even when the "collar" is off.
+- **Lower the bar** / Ch 3, 6 / Set a reasonable time-boxed expectation instead of trying to raise motivation to meet the task.
+- **Magnification / minimization** / Ch 5, 7 / Exaggerating a task's negatives while discounting its positives and your ability.
+- **Method acting approach** / Ch 6, 7 / Acting "as if" you were someone for whom the behavior is natural, or opposite to your current mood, to get started.
+- **Mind reading** / Ch 7, 15 / Assuming you know what others think without evidence; the most common distortion in relationships.
+- **Motivation** / Ch 6 / "The ability to generate an emotion about a task that promotes follow-through in the absence of immediate reward or consequence."
+- **Negative-to-positive anticipation ratio** / Ch 5 / The balance of predicted negatives to positives of doing a task; the aim is to shift it.
+- **OHIO** / Ch 10 / "Only handle it once" — decide on an item when you first handle it.
+- **Overuse (of the planner)** / Ch 3 / Use the planner for everything, including personal, social, recreational and self-care time.
+- **Pivot points** / Ch 4, 17 / Transition moments in the day, useful for routine tasks and vulnerable to distraction.
+- **Planned distraction time** / Ch 17 / Scheduling recreational or technology time in the planner so it is a reward rather than an escape.
+- **Planning time to plan** / Ch 2 / Making an honest 10 minutes (600 seconds) to plan; "a small deposit of time and effort at the outset."
+- **Pocket veto** / Ch 12 / Passively letting a problem or decision lapse by taking no action.
+- **Premack Principle** / Ch 6, 17 / Following a less-desired task with a highly desired one increases the chance it is done.
+- **Problem management** / Ch 12 / Preferred over "problem solving" because not all problems can be solved as hoped; a five-step template.
+- **Procrastination** / Ch 5 / "To voluntarily delay an intended course of action despite expecting to be worse off for the delay" (Steel, 2007, p. 66, as quoted).
+- **Pseudo-efficiency** / Ch 8, 13 / Being busy on many small or tangential tasks while neglecting priority work.
+- **Quadrant II** / Ch 2 / Tasks high in importance but low in urgency, where most effort should go (Covey; Solanto).
+- **Reframe time** / Ch 6 / Recasting task durations in smaller or familiar units (600 seconds; a TV show) to reduce dread.
+- **Role definition** / Ch 15 / Naming your job in an interaction (e.g., listener) to create a behavioral script for emotions.
+- **Smallest step of behavioral engagement** / Ch 5 / An initial action so simple "it becomes absurd to not do it" (e.g., pick up the textbook).
+- **Social collateral / social debt** / Ch 15, 18 / Collateral is earned by delivering on promises; debt is the balance of favors owed.
+- **SQ4R** / Ch 9, 13 / Survey, Question, Read, Record, Recite, Review — an active reading strategy (Forsyth & Forsyth, 1993; Robinson, 1970).
+- **Start small** / Ch 1 / Target a specific behavior in a specific setting, one behavior to increase and one to decrease.
+- **Stimulus control** / Ch 11 / "Removing temptations in order to reduce the likelihood you will fall prey to them."
+- **Swing votes (51–49)** / Ch 5, 18 / You need only enough motivation to get started, not unanimity.
+- **Take Away** / Ch 1 / A numbered step-by-step reminder box meant to be referred to or carried (Preface; Ch 1).
+- **Thinking errors** / Ch 7 / Common distortions listed in Table 7.1, e.g., awfulizing, labeling, fallacy of fairness, should statements.
+- **Three-sentence rule** / Ch 15 / Pause and check in after three sentences to avoid long monologues.
+- **Tools of daily life** / Ch 10 / Keys, wallet/purse, ID, phone, glasses and other essentials kept in a centralized spot; Ch 3 also calls the planner one.
+- **Turn on the device with a plan** / Ch 17 / The device version of entering the room with a plan, with an IF-THEN for distractions.
+- **Turnaround time** / Ch 18 / A preset time at which you must stop and leave, from Into Thin Air.
+- **Underscheduling** / Ch 3 / Scheduling fewer tasks and more buffer than seems necessary, especially at first.
+- **Wake effect** / Ch 18 / Others take months to change their opinion of you after sustained behavior change (de Boo & Prins, 2007).
+- **XYZ strategy** / Ch 15 / "When X happens, I feel Y, and I would like us to be able to Z."
